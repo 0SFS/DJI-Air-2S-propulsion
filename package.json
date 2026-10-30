@@ -1,0 +1,12 @@
+{
+  "name": "@0sfs/dji-air2s-propulsion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DJI Air 2S motor and propeller configuration for the shared electric sound and multirotor plant.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "exports": {
+    "./manifest": "./public/0sfs-mod.json",
+    "./package.json": "./package.json"
+  }
+}
