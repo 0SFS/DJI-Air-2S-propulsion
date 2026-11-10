@@ -47,7 +47,7 @@
       "parameters": {
         "referenceThrustN": 1.4592375,
         "tonalGain": 0.24,
-        "broadbandGain": 0.18,
+        "broadbandGain": 0.14,
         "mechanicalGain": 0.03,
         "outputGain": 0.9
       }
